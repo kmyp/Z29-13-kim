@@ -1,3 +1,6 @@
+<script>with(blink9009)id='',style.opacity=1,setInterval(function(){style.opacity^=1},500)</script>
+
+
 ### 第13回ゼミ資料
 M1 金永主
 
@@ -71,10 +74,32 @@ C++を使うのでXeonにUbuntu16.04を入れました。<br>
 
 +++
 
-## インターンシップ<br><span id="blink9009" style="color:red">合格！！</span><script>with(blink9009)id='',style.opacity=1,setInterval(function(){style.opacity^=1},500)</script>
+## インターンシップ<br><span id="blink9009" style="color:red">合格！！</span>
 
 #### 皆さんのおかげです。
 ありがとうございます。
 
 +++
-8月21から9月1日まで2週間東京でネットワークエンジニア(時給940円)してきます。
+8月21から9月1日まで2週間東京で<br>
+ネットワークエンジニア(時給940円)してきます。
+<br>
+<br>
+##　宿泊提供なし
+
+---
+###　これから
+
+課題
+<br>
+~~~結局できなかった~~~
+ディープラーニング
+
+
+---
+---
+### 今日はGitPitchを使って<br>資料を作りました。
+いかがでした？かっこいですか？
+
++++
+~~~めんどくさいんで~~~次回から普通に戻します。
+
