@@ -34,9 +34,9 @@ GitPitchと言ってGitHubにmarkdownを書くと<br>スライドにしてくれ
 
 ### 自分の研究
 
-C++を使うのでXeonにUbuntu16.04を入れました。
-ホスト名：itoxeon
-ユーザ名：ito-zeon
-パス：いつもの
+C++を使うのでXeonにUbuntu16.04を入れました。<br>
+ホスト名：itoxeon<br>
+ユーザ名：ito-zeon<br>
+パス：いつもの<br>
 でsshできるので、何か重たい計算したいなって人はしていただいても良いです。
 
