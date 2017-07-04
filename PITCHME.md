@@ -71,7 +71,7 @@ C++を使うのでXeonにUbuntu16.04を入れました。<br>
 
 +++
 
-## インターンシップ<br><span style="color:red"><blink0>合格！！！</blink></span>
+## インターンシップ<br><span id="blink9009" style="color:red">合格！！</span><script>with(blink9009)id='',style.opacity=1,setInterval(function(){style.opacity^=1},500)</script>
 
 #### 皆さんのおかげです。
 ありがとうございます。
