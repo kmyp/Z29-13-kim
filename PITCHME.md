@@ -4,7 +4,7 @@ M1 金永主
 ---
 
 ### 今日は一風変わった<br>資料にしてます。
-GitPitchと言ってGitHubにmarkdownを書くとスライドにしてくれるすごいのです。
+GitPitchと言ってGitHubにmarkdownを書くと<br>スライドにしてくれるすごいのです。
 
 ---
 
@@ -17,3 +17,9 @@ GitPitchと言ってGitHubにmarkdownを書くとスライドにしてくれる�
   <dt>これから</dt>
   <dd>忙しい...</dd>
 </dl>
+
+---
+
+### 進捗
+
+# ソサエティ大会
