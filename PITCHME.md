@@ -15,8 +15,8 @@ GitPitchと言ってGitHubにmarkdownを書くと<br>スライドにしてくれ
   <dd>ほとんどなし</dd>
   <dd>課題とバイトに追われています</dd>
   <dt>報告</dt>
-  <dd>やばい報告</dd>  
-  <dd>すごい報告</dd>
+  <dd>やばい報告<br>  
+      すごい報告</dd>
   <dt>これから</dt>
   <dd>忙しい...</dd>
 </dl>
